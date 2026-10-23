@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe31048adb9c0cd4bad31c0203177a9e, type: 3}
+  m_Name: BagolyyQuiz
+  m_EditorClassIdentifier: 
+  npcName: BAGOLY
+  dialogueLines:
+  - "SZIA MISI, M\xC1R V\xC1RTALAK!"
+  - "NE AGG\xD3DJ, NEM FOGOM AZ \xD6SSZES SZ\xD3T KIK\xC9RDEZNI T\u0150LED, HAHA!"
+  - "ki tudn\xE1m, de ne h\xFAzzuk az id\u0151t..."
+  - "K\xC9SZEN \xC1LLSZ AZ UTOLS\xD3 EL\u0150TTI KV\xCDZRE, MISI?"
+  - '!!!'
+  - ezt gyorsan fel is jegyzem...!
+  - "PERSZE, MIH\xC1LY. \xD6R\xDCL\xD6K, HOGY UTAD EZZEL IS SEG\xCDTETT."
+  - "NA DE AKKOR, MIH\xC1LY BAR\xC1TOM!"
+  - "KEZD\u0150DHET A KV\xCDZ?"
+  - AKKOR RAJTA!
+  - "GYERE VISSZA AMIKOR K\xC9SZEN \xC1LLSZ! T\xDCRELEMMEL V\xC1RLAK!"
+  endDialogueLines: 0000000000000000000101
+  typingSpeed: 0.05
+  choices:
+  - dialogueIndex: 3
+    choices:
+    - "MIH\xC1LY"
+    nextDialogueIndexes: 04000000
+    actions: 00000000
+  - dialogueIndex: 8
+    choices:
+    - IGEN
+    - NEM
+    nextDialogueIndexes: 090000000a000000
+    actions: 0100000000000000

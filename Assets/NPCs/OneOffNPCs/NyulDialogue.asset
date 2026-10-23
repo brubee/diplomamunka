@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe31048adb9c0cd4bad31c0203177a9e, type: 3}
+  m_Name: NyulDialogue
+  m_EditorClassIdentifier: 
+  npcName: "NY\xDAL"
+  dialogueLines:
+  - HMM?
+  - HALLOTTAD AZT A ZAJT, MISI?
+  - "MINTHA... K\xD6ZELR\u0150L J\xD6TT VOLNA... DE M\xC9GIS MESSZEBBR\u0150L..."
+  - ...
+  - "NA MINDEGY! MOST K\xC9SZ\xDCL A J\xC9GP\xC1LYA, SZ\xD3VAL VIGY\xC1ZZ RAJTA!"
+  endDialogueLines: 0000000001
+  typingSpeed: 0.05
+  choices: []

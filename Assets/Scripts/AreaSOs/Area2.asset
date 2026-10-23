@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 36bea89590c21614792c5afa01bde055, type: 3}
+  m_Name: Area2
+  m_EditorClassIdentifier: 
+  areaName: "Es\u0151erd\u0151"
+  backgroundMusic: {fileID: 8300000, guid: 200c06df436a5d443a1653fedfdad29d, type: 3}
+  backgroundSprite: {fileID: 21300000, guid: f97cd3719cca7a24db0f970950a9a7a3, type: 3}
+  levels:
+  - {fileID: 11400000, guid: bee9dc46dfe589041ab428e513528144, type: 2}
+  - {fileID: 11400000, guid: 0d8a11555c96e4241b602302f0ba87ac, type: 2}
+  - {fileID: 11400000, guid: f2da05038e35d03408e20617448e94fd, type: 2}
+  - {fileID: 11400000, guid: 08eb31ded9dd60545a0e45f46eea7551, type: 2}
+  - {fileID: 11400000, guid: a73ebd1793e7b624983b426f18aed70d, type: 2}

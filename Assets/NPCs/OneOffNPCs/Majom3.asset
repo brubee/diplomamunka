@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe31048adb9c0cd4bad31c0203177a9e, type: 3}
+  m_Name: Majom3
+  m_EditorClassIdentifier: 
+  npcName: MAJOM
+  npcPortrait: {fileID: 7482667652216324306, guid: 48e93eef0688c4a259cb0eddcd8661f7, type: 3}
+  dialogueLines:
+  - BRRR.....
+  - "MISI, TE NEM F\xC1ZOL?"
+  - "HOZNOM KELLETT VOLNA KESZTY\u0170T... AZ UJJAIM..."
+  - "AZ UJJAIM MINDJ\xC1RT \xD6SSZEFAGYNAK A HIDEGT\u0150L!"
+  endDialogueLines: 00000001
+  typingSpeed: 0.05
+  choices: []

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 36bea89590c21614792c5afa01bde055, type: 3}
+  m_Name: Area4
+  m_EditorClassIdentifier: 
+  areaName: "Fagyos vid\xE9k"
+  backgroundMusic: {fileID: 8300000, guid: 3115661c16c57db4294e4ae4ac22ab3b, type: 3}
+  backgroundSprite: {fileID: 21300000, guid: f08c8b93e1d80604a90e7cbb5a7ebd1f, type: 3}
+  levels:
+  - {fileID: 11400000, guid: fe9765264833f714ba6d728349fd62e6, type: 2}
+  - {fileID: 11400000, guid: 68a3759710da3e54a80cd09d4ff6b52a, type: 2}
+  - {fileID: 11400000, guid: 44d0fc6f3e0b62241a6ac5801947e97b, type: 2}
+  - {fileID: 11400000, guid: e5cbc267021252f49871d06a8854ba80, type: 2}
+  - {fileID: 11400000, guid: 8128c15cf44034b44921379ee9044655, type: 2}

@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 58025f99ebf16424a8c7c87c43eb444f, type: 3}
+  m_Name: Level2-1
+  m_EditorClassIdentifier: 
+  levelID: 2-1
+  isUnlockedByDefault: 0
+  scene:
+    m_SceneAsset: {fileID: 102900000, guid: 461f15e8050eb3446b7d0c352d158c50, type: 3}
+    m_SceneName: Level2-1
+  levelName: 
+  words:
+  - prefix: MA
+    suffix: OM
+    correctAnswer: J
+  - prefix: "M\xC9"
+    suffix: 
+    correctAnswer: LY
+  - prefix: "BAN\xC1NH\xC9"
+    suffix: 
+    correctAnswer: J

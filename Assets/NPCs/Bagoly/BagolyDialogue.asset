@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe31048adb9c0cd4bad31c0203177a9e, type: 3}
+  m_Name: BagolyDialogue
+  m_EditorClassIdentifier: 
+  npcName: Bagoly
+  npcPortrait: {fileID: 7482667652216324306, guid: 48e93eef0688c4a259cb0eddcd8661f7, type: 3}
+  dialogueLines:
+  - "SZIA MIH\xC1LY! R\xC9G L\xC1TTALAK!"
+  - "MI J\xC1RATBAN ERRE?"
+  - ...
+  - "MISI? HA SZERETN\xC9D, PERSZE. DE T\xD6RT\xC9NT VALAMI?"
+  - ...
+  - "VALAKI AZT MONDTA NEH\xC9Z A NEVED? DE H\xC1T CSAK EGY N\xC9V."
+  - "NEH\xC9Z MEGJEGYEZNI BENNE AZ LY-T? HA!"
+  - "HA NYITOTT SZEMMEL J\xC1RUNK, SEMMI SEM NEH\xC9Z!"
+  - "N\xC9ZZ R\xC1M, P\xC9LD\xC1UL! AZ \xC9N NEVEMBEN MI \xC1LL?"
+  - "PONTOSAN! RENGETEG ILYEN SZ\xD3 VAN A VIL\xC1GBAN, \xC9S MIND \xC9RT\xC9KES."
+  - "UTADON BIZTOSAN BELEFUTSZ M\xC9G ELGONDOLKODTAT\xD3 SZAVAKBA, DE NE ADD FEL!"
+  - "MISI... REM\xC9LEM CSAK VICCELSZ."
+  endDialogueLines: 000000000000000000000101
+  typingSpeed: 0.05
+  choices:
+  - dialogueIndex: 8
+    choices:
+    - J
+    - LY
+    nextDialogueIndexes: 0b00000009000000
+    actions: 0000000000000000

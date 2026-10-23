@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe31048adb9c0cd4bad31c0203177a9e, type: 3}
+  m_Name: Bagoly2
+  m_EditorClassIdentifier: 
+  npcName: BAGOLY
+  npcPortrait: {fileID: 7482667652216324306, guid: 48e93eef0688c4a259cb0eddcd8661f7, type: 3}
+  dialogueLines:
+  - "SZIA MISI! J\xD3 \xDAJRA L\xC1TNI."
+  - "\xDAGY HALLOTTAM SOK AKAD\xC1LYON JUTOTT\xC1L M\xC1R KERESZT\xDCL HOGY IDE\xC9RJ."
+  - "\xC9S BIZTOS SOK J- \xC9S LY-BET\u0170S SZ\xD3BA IS BELEFUTOTT\xC1L."
+  - EDDIG MELYIK SZAVAKAT TARTOD NEHEZEBBNEK?
+  - "HMM, IGEN, AZOK EL\xC9G TR\xDCKK\xD6SEK!"
+  - "DE BIZTOS VAGYOK BENNE, HOGY KALANDOD SOR\xC1N SOKAT FOGSZ M\xC9G TANULNI!"
+  - "nekem m\xE1r az is el\xE9g jutalom, haha!"
+  - "NA DE, HADD NE TARTSALAK FEL! SOK L\xC1TNIVAL\xD3 VAN M\xC9G EL\u0150TTED!"
+  - "J\xD3 UTAT, MISI!"
+  endDialogueLines: 000000000000000001
+  typingSpeed: 0.05
+  choices:
+  - dialogueIndex: 3
+    choices:
+    - J
+    - LY
+    nextDialogueIndexes: 0400000004000000
+    actions: 0000000000000000
