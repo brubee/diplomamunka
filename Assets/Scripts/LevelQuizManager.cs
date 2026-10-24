@@ -1,5 +1,4 @@
 using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 using TMPro;
 using UnityEngine.EventSystems;
@@ -28,11 +27,8 @@ public class LevelQuizManager : MonoBehaviour
 
     private void Start()
     {
-        if (levelData  == null || levelData.words.Length == 0)
-        {
-            Debug.LogError("No level data or words assigned!");
+        if (levelData == null || levelData.words.Length == 0)
             return;
-        }
 
         ShowCurrentWord();
         SetupAnswerButtons();

@@ -944,7 +944,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: RESET
+  m_text: "\xDAJ J\xC1T\xC9K"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8c3800a879b001e4fa0738bd186c6498, type: 2}
   m_sharedMaterial: {fileID: 3231249326205721981, guid: 8c3800a879b001e4fa0738bd186c6498, type: 2}

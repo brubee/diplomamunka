@@ -13,10 +13,9 @@ MonoBehaviour:
   m_Name: KecskeDialogue
   m_EditorClassIdentifier: 
   npcName: KECSKE
-  npcPortrait: {fileID: 7482667652216324306, guid: 48e93eef0688c4a259cb0eddcd8661f7, type: 3}
   dialogueLines:
   - "OLYAN CSOD\xC1LATOS EZ AZ \xC9JJEL..."
-  - "CSAK N\xC9ZD, MENNYI CSILLAG L\xC1TSZIK AZ \xC9GEN!"
+  - "CSAK N\xC9ZD, MENNYI CSILLAG F\xC9NYLIK AZ \xC9GEN!"
   - "BIZTOSAN AZ \xDAJHOLD MIATT."
   - "MMM... DE SZ\xC9P..."
   endDialogueLines: 00000001
