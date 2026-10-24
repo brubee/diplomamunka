@@ -13,11 +13,10 @@ MonoBehaviour:
   m_Name: GilisztaDialogue
   m_EditorClassIdentifier: 
   npcName: GILISZTA
-  npcPortrait: {fileID: 7482667652216324306, guid: 48e93eef0688c4a259cb0eddcd8661f7, type: 3}
   dialogueLines:
-  - "plusz j\xF3 pont ha \"helyesen\" jutott\xE1l ide"
+  - "plusz j\xF3 pont, ha \"helyesen\" jutott\xE1l ide"
   - ;)
-  - "de persze nem baj ha nem! \xF6r\xFCl\xF6k, hogy l\xE1tlak! :)"
+  - "de persze nem baj, ha nem! \xF6r\xFCl\xF6k, hogy l\xE1tlak! :)"
   endDialogueLines: 000001
   typingSpeed: 0.05
   choices: []

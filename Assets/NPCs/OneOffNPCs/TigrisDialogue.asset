@@ -13,11 +13,10 @@ MonoBehaviour:
   m_Name: TigrisDialogue
   m_EditorClassIdentifier: 
   npcName: TIGRIS
-  npcPortrait: {fileID: 7482667652216324306, guid: 48e93eef0688c4a259cb0eddcd8661f7, type: 3}
   dialogueLines:
   - SZIA MISI!
   - "HA L\xC1TTAD MAJMOT, K\xC9RLEK NE MONDD EL NEKI, HOGY MERRE VAGYOK."
-  - "\xC9PPEN REJT\u0150Z\xD6M T\u0150LE."
+  - "\xC9PPEN REJT\u0150ZK\xD6D\xD6M EL\u0150LE."
   - "NEM, NEM CSIN\xC1LT SEMMI ROSSZAT. CSAK PIHENEK EGY KICSIT."
   - "EL\u0150RE IS K\xD6SZ\xD6N\xD6M!"
   endDialogueLines: 0000000001

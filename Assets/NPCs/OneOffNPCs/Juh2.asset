@@ -13,13 +13,12 @@ MonoBehaviour:
   m_Name: Juh2
   m_EditorClassIdentifier: 
   npcName: JUH
-  npcPortrait: {fileID: 7482667652216324306, guid: 48e93eef0688c4a259cb0eddcd8661f7, type: 3}
   dialogueLines:
   - SZIA MEGINT, MISI!
   - "CSAK \xD3VATOSAN, EL NE RAGADJON A FOLY\xD3!"
-  - "NEM TUDOM MI\xC9RT NEM \xC9P\xCDTETTEK M\xC9G HIDAKAT A SZIRTEK K\xD6Z\xC9..."
+  - "NEM TUDOM, MI\xC9RT NEM \xC9P\xCDTETTEK M\xC9G HIDAKAT A SZIRTEK K\xD6Z\xC9..."
   - "NEM MINDENKI TUD REP\xDCLNI."
-  - "nem eml\xE9kszem hogy jutottam ide fel..."
+  - "nem eml\xE9kszem, hogy jutottam ide fel..."
   endDialogueLines: 0000000001
   typingSpeed: 0.05
   choices: []

@@ -13,10 +13,9 @@ MonoBehaviour:
   m_Name: JegesmedveDialogue
   m_EditorClassIdentifier: 
   npcName: JEGESMEDVE
-  npcPortrait: {fileID: 7482667652216324306, guid: 48e93eef0688c4a259cb0eddcd8661f7, type: 3}
   dialogueLines:
   - "MA IGAZ\xC1N GYORSAN FOLYIK EZ A FOLY\xD3."
-  - "REM\xC9LEM EZ NEM NEHEZ\xCDTI UTADAT, MISI!"
+  - "REM\xC9LEM, EZ NEM NEHEZ\xCDTI UTADAT!"
   endDialogueLines: 0001
   typingSpeed: 0.05
   choices: []

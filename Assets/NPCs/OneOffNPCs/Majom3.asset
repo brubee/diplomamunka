@@ -13,12 +13,11 @@ MonoBehaviour:
   m_Name: Majom3
   m_EditorClassIdentifier: 
   npcName: MAJOM
-  npcPortrait: {fileID: 7482667652216324306, guid: 48e93eef0688c4a259cb0eddcd8661f7, type: 3}
   dialogueLines:
   - BRRR.....
   - "MISI, TE NEM F\xC1ZOL?"
   - "HOZNOM KELLETT VOLNA KESZTY\u0170T... AZ UJJAIM..."
-  - "AZ UJJAIM MINDJ\xC1RT \xD6SSZEFAGYNAK A HIDEGT\u0150L!"
+  - "AZ UJJAIM MINDJ\xC1RT LEFAGYNAK A HIDEGT\u0150L!"
   endDialogueLines: 00000001
   typingSpeed: 0.05
   choices: []

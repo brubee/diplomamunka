@@ -20,7 +20,7 @@ MonoBehaviour:
   levelName: 
   words:
   - prefix: RE
-    suffix: "T\u0150Z"
+    suffix: "T\u0150ZK\xD6DIK"
     correctAnswer: J
   - prefix: BU
     suffix: "K\xC1L"

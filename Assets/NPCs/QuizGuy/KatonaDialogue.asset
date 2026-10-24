@@ -15,7 +15,7 @@ MonoBehaviour:
   npcName: KATONA
   dialogueLines:
   - "SZIA MISI. MOST AZ EGYSZER NEM \xC1LL\xCDTALAK MEG!"
-  - "A KIR\xC1LY KACAJ\xC1B\xD3L \xCDT\xC9LVE REMEK MUNK\xC1T V\xC9GEZT\xC9L."
+  - "A KIR\xC1LY KACAJ\xC1B\xD3L \xCDT\xC9LVE, REMEK MUNK\xC1T V\xC9GEZT\xC9L."
   - "M\xC1R A C\xC9LBAN VAGY! CSAK \xCDGY TOV\xC1BB!"
   endDialogueLines: 000001
   typingSpeed: 0.05

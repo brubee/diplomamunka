@@ -14,8 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   npcName: BAGOLY
   dialogueLines:
-  - "NA ITT IS VAGYUNK! \xDCDV A KIR\xC1LYS\xC1GBAN, MISI!"
-  - "M\xC9G RENGETEG SZ\xD3BA FUTHATSZ BELE, EZ\xC9RT NEM IS TARTALAK FEL."
+  - "NA, ITT IS VAGYUNK! \xDCDV A KIR\xC1LYS\xC1GBAN, MISI!"
+  - "M\xC9G RENGETEG SZ\xD3VAL TAL\xC1LKOZHATSZ, EZ\xC9RT NEM IS TARTALAK FEL."
   - "J\xD3 SZ\xD3RAKOZ\xC1ST!"
   endDialogueLines: 000001
   typingSpeed: 0.05

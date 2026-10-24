@@ -13,10 +13,9 @@ MonoBehaviour:
   m_Name: KeselyuDialogue
   m_EditorClassIdentifier: 
   npcName: "KESELY\u0170"
-  npcPortrait: {fileID: 7482667652216324306, guid: 48e93eef0688c4a259cb0eddcd8661f7, type: 3}
   dialogueLines:
   - "B\xC1R TUDOK REP\xDCLNI, J\xD3L J\xD6TT AZ A T\xC1BLA."
-  - "T\xD6BB ILYEN V\xC9SZJELZ\u0150 T\xC1BL\xC1T IS FEL K\xC9NE \xC1LL\xCDTANUNK."
+  - "T\xD6BB ILYEN VESZ\xC9LYT JELZ\u0150 T\xC1BL\xC1T IS FEL K\xC9NE \xC1LL\xCDTANUNK."
   - "F\u0150LEG ITT A HEGYEKBEN."
   - SOK SIKERT, MISI!
   endDialogueLines: 00000001

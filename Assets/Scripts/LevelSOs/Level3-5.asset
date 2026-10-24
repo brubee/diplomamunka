@@ -22,8 +22,8 @@ MonoBehaviour:
   - prefix: BE
     suffix: "\xC1RAT"
     correctAnswer: J
-  - prefix: 
-    suffix: UH
+  - prefix: FEL
+    suffix: UT
     correctAnswer: J
   - prefix: 
     suffix: OBB

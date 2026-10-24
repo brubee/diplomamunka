@@ -22,11 +22,20 @@ public class DialoguePopUp : MonoBehaviour, IInteractable
 
     public bool canInteract()
     {
-        return !isDialogueActive;
+        if (sessionManager != null && sessionManager.quizActive)
+            return false;
+
+        return true;
     }
 
     public void Interact()
     {
+        if (sessionManager != null && sessionManager.quizActive)
+            return;
+
+        if (activeDialogue != null && activeDialogue != this)
+            return;
+
         if (dialogueData == null)
         {
             return;
@@ -185,7 +194,7 @@ public class DialoguePopUp : MonoBehaviour, IInteractable
         dialogueManager.SetDialogueText("");
         dialogueManager.ShowDialogueUI(false);
 
-        if (restorePlayerScript && playerScript != null)
+        if (restorePlayerScript && playerScript != null && (sessionManager == null || !sessionManager.quizActive))
             playerScript.enabled = true;
     }
 

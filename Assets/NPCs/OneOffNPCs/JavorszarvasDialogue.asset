@@ -13,9 +13,8 @@ MonoBehaviour:
   m_Name: JavorszarvasDialogue
   m_EditorClassIdentifier: 
   npcName: "J\xC1VORSZARVAS"
-  npcPortrait: {fileID: 7482667652216324306, guid: 48e93eef0688c4a259cb0eddcd8661f7, type: 3}
   dialogueLines:
-  - "\xDCDV, MISI. L\xC1TOM M\xC1R T\xDAL IS JUTOTT\xC1L AZ ELS\u0150 HEGYEN."
+  - "\xDCDV, MISI. L\xC1TOM, M\xC1R T\xDAL IS JUTOTT\xC1L AZ ELS\u0150 HEGYEN."
   - "NAGYON \xDCGYES VAGY, CSAK \xCDGY TOV\xC1BB!"
   endDialogueLines: 0001
   typingSpeed: 0.05

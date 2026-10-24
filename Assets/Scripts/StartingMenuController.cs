@@ -14,6 +14,7 @@ public class StartingMenuController : MonoBehaviour
 
     [SerializeField] private GameObject mainMenuPanel;
     [SerializeField] private GameObject settingsMenuPanel;
+    [SerializeField] private GameObject resetText;
     [SerializeField] private GameProgressManager gameProgressManager;
 
     private bool startPressed = false;
@@ -95,5 +96,6 @@ public class StartingMenuController : MonoBehaviour
     public void OnResetClick()
     {
         gameProgressManager.ResetProgress();
+        resetText.SetActive(true);
     }
 }

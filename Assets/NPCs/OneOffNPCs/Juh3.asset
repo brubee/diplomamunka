@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   npcName: JUH
   dialogueLines:
-  - NEM TUDOM MELYIK FEJEDELEM TERVEZTE IDE EZT A SOK JEGET...
+  - NEM TUDOM, MELYIK FEJEDELEM TERVEZTE IDE EZT A SOK JEGET...
   - "DE A KIR\xC1LYNAK BIZTOS NEM FOG TETSZENI!"
   endDialogueLines: 0001
   typingSpeed: 0.05

@@ -13,10 +13,9 @@ MonoBehaviour:
   m_Name: Pingvin2
   m_EditorClassIdentifier: 
   npcName: PINGVIN
-  npcPortrait: {fileID: 7482667652216324306, guid: 48e93eef0688c4a259cb0eddcd8661f7, type: 3}
   dialogueLines:
   - "A HAJNALI FAGY UT\xC1N A NAP MELEGE OLYAN LESZ, MINT AZ OTTHONI K\xC1LYHA..."
-  - "HMM. NEM TUDOM EZ J\xD3 DOLOG-E."
+  - "HMM. NEM TUDOM, EZ J\xD3 DOLOG-E."
   - "ADDIG \xC9LVEZEM A KIL\xC1T\xC1ST, AM\xCDG CSAK TUDOM!"
   endDialogueLines: 000001
   typingSpeed: 0.05

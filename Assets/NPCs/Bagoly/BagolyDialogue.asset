@@ -13,7 +13,6 @@ MonoBehaviour:
   m_Name: BagolyDialogue
   m_EditorClassIdentifier: 
   npcName: Bagoly
-  npcPortrait: {fileID: 7482667652216324306, guid: 48e93eef0688c4a259cb0eddcd8661f7, type: 3}
   dialogueLines:
   - "SZIA MIH\xC1LY! R\xC9G L\xC1TTALAK!"
   - "MI J\xC1RATBAN ERRE?"
@@ -25,8 +24,9 @@ MonoBehaviour:
   - "HA NYITOTT SZEMMEL J\xC1RUNK, SEMMI SEM NEH\xC9Z!"
   - "N\xC9ZZ R\xC1M, P\xC9LD\xC1UL! AZ \xC9N NEVEMBEN MI \xC1LL?"
   - "PONTOSAN! RENGETEG ILYEN SZ\xD3 VAN A VIL\xC1GBAN, \xC9S MIND \xC9RT\xC9KES."
-  - "UTADON BIZTOSAN BELEFUTSZ M\xC9G ELGONDOLKODTAT\xD3 SZAVAKBA, DE NE ADD FEL!"
-  - "MISI... REM\xC9LEM CSAK VICCELSZ."
+  - "UTADON BIZTOSAN TAL\xC1LKOZOL M\xC9G ELGONDOLKODTAT\xD3 SZAVAKKAL, DE NE ADD
+    FEL!"
+  - "MISI... REM\xC9LEM, CSAK VICCELSZ."
   endDialogueLines: 000000000000000000000101
   typingSpeed: 0.05
   choices:

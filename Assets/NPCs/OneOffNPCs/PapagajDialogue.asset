@@ -13,11 +13,10 @@ MonoBehaviour:
   m_Name: PapagajDialogue
   m_EditorClassIdentifier: 
   npcName: "PAPAG\xC1J"
-  npcPortrait: {fileID: 7482667652216324306, guid: 48e93eef0688c4a259cb0eddcd8661f7, type: 3}
   dialogueLines:
   - SZIA MISI!
   - "J\xD3 ITT A KIL\xC1T\xC1S, DE FELREP\xDCLNI IDE BORZALMAS \xC9LM\xC9NY!"
-  - "EZ A SOK LI\xC1N SZINTE MEGFOJT HA EGYBE IS BELEAKADOK!"
+  - "EZ A SOK LI\xC1N SZINTE MEGFOJT, HA EGYBE IS BELEAKADOK!"
   - "DE LEGAL\xC1BB NEM K\xCDGY\xD3K!"
   - HAHAHA!
   - "k\xEDgy\xF3k..... brrr....."

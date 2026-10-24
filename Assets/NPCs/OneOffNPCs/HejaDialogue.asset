@@ -13,7 +13,6 @@ MonoBehaviour:
   m_Name: HejaDialogue
   m_EditorClassIdentifier: 
   npcName: "H\xC9JA"
-  npcPortrait: {fileID: 7482667652216324306, guid: 48e93eef0688c4a259cb0eddcd8661f7, type: 3}
   dialogueLines:
   - SZIA MISI!
   - "\xDCDV\xD6Z\xD6LLEK A HEGYEKBEN! AHOGY L\xC1THATOD, ITT IGAZ\xC1N MAGASAK AZ

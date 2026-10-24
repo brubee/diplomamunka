@@ -13,12 +13,11 @@ MonoBehaviour:
   m_Name: JaguarDialogue
   m_EditorClassIdentifier: 
   npcName: "JAGU\xC1R"
-  npcPortrait: {fileID: 7482667652216324306, guid: 48e93eef0688c4a259cb0eddcd8661f7, type: 3}
   dialogueLines:
-  - "SZIA MISI. REM\xC9LEM NEM OKOZTAK PROBL\xC9M\xC1T EZEK A POCSOLY\xC1K."
+  - "SZIA MISI. REM\xC9LEM, NEM OKOZTAK PROBL\xC9M\xC1T EZEK A POCSOLY\xC1K."
   - "M\xC1R OLYAN R\xC9GEN J\xC1RTAM IGAZI M\xC9LY V\xCDZBEN..."
   - "BELES\xDCLLYEDNI A H\u0170V\xD6S V\xCDZBE..."
-  - "HMM. ELGONDOLKODTAT\xD3."
+  - "HMM... ELGONDOLKODTAT\xD3."
   endDialogueLines: 00000001
   typingSpeed: 0.05
   choices: []

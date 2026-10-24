@@ -19,12 +19,12 @@ MonoBehaviour:
     m_SceneName: Level3-4
   levelName: 
   words:
-  - prefix: GYAP
-    suffix: "\xDA"
+  - prefix: 
+    suffix: UH
     correctAnswer: J
   - prefix: "F\xDA"
     suffix: 
     correctAnswer: J
-  - prefix: "CS\xC1K"
-    suffix: A
-    correctAnswer: LY
+  - prefix: GYAP
+    suffix: "\xDA"
+    correctAnswer: J

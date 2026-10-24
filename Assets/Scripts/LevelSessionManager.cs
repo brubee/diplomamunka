@@ -23,6 +23,7 @@ public class LevelSessionManager : MonoBehaviour
     private float levelStartTime;
     private float platformingTime;
     private bool quizStarted;
+    public bool quizActive => quizStarted && !levelCompleted;
     private bool levelCompleted;
 
     private void Start()
